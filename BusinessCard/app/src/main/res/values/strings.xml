@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="default_title">Android Developer Extraordinaire</string>
+    <string name="default_name">Will Yuan</string>
+    <string name="default_phone_number">+11 (123) 444 555 666</string>
+    <string name="default_social_account">\@SocialMediaHandle</string>
+    <string name="default_email_address">somebody@gmail.com</string>
+</resources>
